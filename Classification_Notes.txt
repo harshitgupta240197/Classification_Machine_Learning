@@ -10,3 +10,12 @@ A machine learning technique to identify the category of new observations based 
 
 Logistic Regression : 
 Predict a categorical dependent variable from a number of dependent variables.
+
+
+
+The ultimate guide to regression and classification :https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification
+
+
+
+Breast cancer  detection :: https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5
+
